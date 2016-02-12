@@ -1,7 +1,9 @@
-set smartindent
-set tabstop=4
-set shiftwidth=4
-set expandtab
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
 noremap l h
 noremap ; l
 noremap h ;
+
+set number
