@@ -9,3 +9,5 @@ noremap h ;
 set number
 set textwidth=140
 setlocal spell spelllang=en_us
+set  t_Co=256
+
