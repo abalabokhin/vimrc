@@ -15,5 +15,6 @@ noremap h ;
 set number
 set textwidth=140
 set t_Co=256
+set list
 
 autocmd BufNewFile,BufRead *.tex set spell spelllang=en_us
