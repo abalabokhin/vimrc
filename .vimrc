@@ -13,7 +13,7 @@ noremap ; l
 noremap h ;
 
 set number
-set textwidth=140
+set textwidth=110
 set t_Co=256
 set list
 
