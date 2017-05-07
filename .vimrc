@@ -3,7 +3,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'racer-rust/vim-racer'
 Plug 'rust-lang/rust.vim'
 Plug 'https://github.com/ConradIrwin/vim-bracketed-paste.git' 
-Plug 'sensible.vim'
+Plug 'tpope/sensible.vim'
 
 call plug#end()
 
